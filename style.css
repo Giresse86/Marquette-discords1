@@ -1,0 +1,51 @@
+    body{
+    background-color: #0f0e17;
+    margin: 0;
+    }
+     header .container{
+     width: 100%;
+     height: 150px;
+     text-align: center;
+    }
+   
+     header .container img{
+     width: 100px;
+     height: 100px;
+    }
+   
+     nav li {
+     text-align: center;
+     position: relative;
+     display: inline;
+     margin: auto;
+     
+    }
+   
+     nav li a {text-decoration: none;
+     color: #fffffe;
+     }
+   
+    section{
+     max-width: 720px;
+     background-color: #fffffe;
+     margin: 60px auto;
+     border-radius: 5px;
+     text-align: center;
+         }
+   
+     h2{
+     color: #ff8906;
+     text-align: center;
+     margin: auto;
+       }
+   
+    footer{
+     background-color:  #e53170;
+     color: #fffffe;
+     text-align: center;
+     padding: 15px;
+     position: fixed;
+     bottom: 0;
+     width: 100%;
+    }
+  
